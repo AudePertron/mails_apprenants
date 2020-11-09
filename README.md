@@ -14,6 +14,6 @@ Le code python est séparé en 4 fichier:
 
 ![diagramme](diagramme.png)
 
-## Resullat final
+## Resultat final
 
 ![mails](mails.PNG)
