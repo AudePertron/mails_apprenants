@@ -1,4 +1,4 @@
-# Porjet mails_apprenants
+# Projet mails_apprenants
 
 ## Details du fonctionnement
 
