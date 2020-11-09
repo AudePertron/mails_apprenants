@@ -2,3 +2,7 @@
 
 
 ![mails](mails.png)
+
+
+
+![diagramme](diagramme.png)
