@@ -1,5 +1,5 @@
 # Projet mails_apprenants
-en binôme avec Pereg
+en binôme Pereg et Aude
 ## Details du fonctionnement
 
 Permet d'ajouter une colonne mail_apprenant et entrer le mail pour chaque personne à partir d'un fichier txt.
