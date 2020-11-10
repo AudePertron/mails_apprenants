@@ -17,3 +17,7 @@ class MySQL_link:
         SQL = f"UPDATE apprenants SET mail_apprenant = '{mail}' WHERE id_apprenant = {_id}"
         self.cursor.execute(SQL)
         self.link.commit()
+
+    def close(self):
+        self.cursor.close()
+        self.link.close()

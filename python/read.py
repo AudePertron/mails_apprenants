@@ -1,4 +1,3 @@
-import os
 
 class Read:
     def __init__(self, fichier):
